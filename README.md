@@ -20,3 +20,6 @@ IndiFood Restaurant is a web application designed to provide users with informat
 - **Contact Form**: Enables users to send inquiries or messages directly to the restaurant via a contact form.
 - **Social Media Integration**: Connects users with the restaurant's social media profiles for further engagement and updates.
 
+## Live Demo
+
+Check out the live demo of the application [here](https://indifood-restaurant.netlify.app/).
